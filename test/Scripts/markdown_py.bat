@@ -1,0 +1,1 @@
+@"c:\users\rahul\desktop\legov-master\legov-master\chatbot\test\scripts\python.exe" "c:\users\rahul\desktop\legov-master\legov-master\chatbot\test\Scripts\markdown_py" %*
